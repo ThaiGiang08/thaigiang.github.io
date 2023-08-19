@@ -6004,7 +6004,7 @@ textDiv.id = "text";
 var welcomeText = document.createElement("p");
 welcomeText.style.fontFamily = "Quicksand";
 welcomeText.style.fontSize = "20px";
-welcomeText.textContent = "Designed By _thaigiang =))";
+welcomeText.textContent = "=>> 𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝙃𝙪𝙣𝙣𝙞𝙚 𝘽𝙖𝙘𝙠 𝙏𝙤 𝙏𝙝𝙚 𝙃𝙤𝙢𝙚𝙋𝙖𝙜𝙚 🐬 <<=";
 welcomeText.style.marginBottom = "10px"; // Khoảng cách dưới 10px
 
 
